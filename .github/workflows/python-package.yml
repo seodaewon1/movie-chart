@@ -36,21 +36,13 @@ jobs:
       
     - name: Run Python scripts
       run: |
-        python3 pyMegaboxChart.py
         python3 pyCGVChart.py
-        python3 pyCineQChart.py
-        python3 pyLottecinemaChart.py
-        python3 pyMoviechartChart.py
 
     - name: Commits
       run : |
         git config --global user.email "sdw10195@gmail.com"
         git config --global user.name "seodaewon1" 
-        git add Megabox/MegaboxChart_*.json
         git add CGV/CGVChart_*.json
-        git add CineQ/CineQChart_*.json
-        git add Lottecinema/LottecinemaChart_*.json
-        git add Moviechart/MoviechartChart_*.json
         git commit -m "차트 수집 완료"
 
     - name: Push
