@@ -11,7 +11,7 @@ import time
 import json
 
 current_date = datetime.now().strftime("%Y-%m-%d")
-filename = f"pyMoviechartChart_{current_date}.json"
+filename = f"Moviechart/pyMoviechartChart_{current_date}.json"
 
 # 웹드라이버 설치
 options = ChromeOptions()
