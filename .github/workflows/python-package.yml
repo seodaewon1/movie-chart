@@ -52,11 +52,11 @@ jobs:
       run : |
         git config --global user.email "sdw10195@gmail.com"
         git config --global user.name "seodaewon1" 
-        git add Megabox/pyMegaboxChart_*.json
-        git add CGV/pyCGVChart_*.json
-        git add CineQ/pyCineQChart_*.json
-        git add Lottecinema/pyLottecinemaChart_*.json
-        git add Moviechart/pyMoviechartChart_*.json
+        git add Megabox/MegaboxChart_*.json
+        git add CGV/CGVChart_*.json
+        git add CineQ/CineQChart_*.json
+        git add Lottecinema/LottecinemaChart_*.json
+        git add Moviechart/MoviechartChart_*.json
         git commit -m "차트 수집 완료"
 
     - name: push
