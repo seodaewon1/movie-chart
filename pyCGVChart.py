@@ -15,6 +15,7 @@ filename = f"pyCGVChart_{current_date}.json"
 
 # 웹드라이버 설치
 options = ChromeOptions()
+options.add_argument("--headless")
 service = ChromeService(executable_path=ChromeDriverManager().install())
 browser = webdriver.Chrome(service=service, options=options)
 
