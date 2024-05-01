@@ -38,6 +38,7 @@ jobs:
       run: |
         python3 pyCGVChart.py
         python3 pyMoviechartChart.py
+        python3 pyMegabox.py
 
     - name: Commits
       run : |
@@ -45,6 +46,7 @@ jobs:
         git config --global user.name "seodaewon1" 
         git add CGV/CGVChart_*.json
         git add Moviechart/MoviechartChart_*.json
+        git add Megabox/MegaboxChart*.json
         git commit -m "차트 수집 완료"
 
     - name: Push
