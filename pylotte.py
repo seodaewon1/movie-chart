@@ -11,7 +11,7 @@ import time
 import json
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
-filename = f"lottecinema_chart_{current_date}.json"
+filename = f"lotte_chart_{current_date}.json"
 # 웹드라이브 설치
 options = ChromeOptions()
 service = ChromeService(executable_path=ChromeDriverManager().install())
