@@ -11,10 +11,9 @@ import time
 import json
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
-filename = f"Lottecinema/LottecinemaChart_{current_date}.json"  
+filename = f"LottecinemaChart_{current_date}.json"
 # 웹드라이브 설치
 options = ChromeOptions()
-options.add_argument("--headless")
 service = ChromeService(executable_path=ChromeDriverManager().install())
 browser = webdriver.Chrome(service=service, options=options)
 browser.get('https://www.lottecinema.co.kr/NLCHS/Movie/List?flag=1')
