@@ -41,6 +41,7 @@ jobs:
         python3 pyMegabox.py
         python3 pyLottecinema.py
         python3 pyCineQ.py
+        python3 pylotte.py
 
     - name: Commits
       run : |
@@ -51,6 +52,7 @@ jobs:
         git add Megabox/MegaboxChart*.json
         git add CineQ/CineQChart*.json
         git add Lottecinema/LottecinemaChart*.json
+        git add Lottecinema-text/lotte_chart_*.json
         git commit -m "차트 수집 완료"
 
     - name: Push
