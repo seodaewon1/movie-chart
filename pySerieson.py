@@ -9,22 +9,14 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import json
 import time
-import logging
-
-# 로깅 설정
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
-filename = f"Serieson/serieson_Chart{current_date}.json"
+filename = f"Serieson/Serieson_Chart{current_date}.json"
 
 # 웹드라이브 설치
 options = ChromeOptions()
-options.add_argument("--headless")  # 헤드리스 모드
 options.add_argument("--window-size=1920,1080")  # 브라우저 창 크기 설정
-options.add_argument("--disable-gpu")
-options.add_argument("--no-sandbox")
-options.add_argument("--disable-dev-shm-usage")
 service = ChromeService(executable_path=ChromeDriverManager().install())
 browser = webdriver.Chrome(service=service, options=options)
 
@@ -32,14 +24,14 @@ browser = webdriver.Chrome(service=service, options=options)
 browser.get('https://serieson.naver.com/v3/movie/ranking/realtime')
 
 # 페이지가 완전히 로드될 때까지 대기
-WebDriverWait(browser, 30).until(
+WebDriverWait(browser, 20).until(
     EC.presence_of_element_located((By.CLASS_NAME, "RankingPage_ranking_wrap__GB855"))
 )
 
 # 천천히 스크롤 다운
 scroll_pause_time = 1  # 1초 대기
 pixels_to_scroll = 1000  # 한 번에 스크롤할 픽셀 수
-max_time_limit = 60  # 전체 작업 시간 제한 (60초)
+max_time_limit = 40  # 전체 작업 시간 제한 (40초)
 start_time = time.time()  # 작업 시작 시간
 
 def scroll_down():
@@ -73,7 +65,6 @@ for i, track in enumerate(tracks, start=1):
         image_url = image_tag['src']
     else:
         image_url = "No image available"
-        logging.warning(f"Image not found for track: {title}")
     movie_data.append({
         "rank": rank,
         "title": title,
@@ -82,7 +73,7 @@ for i, track in enumerate(tracks, start=1):
     })
 
 # 출력 확인
-logging.info(json.dumps(movie_data, ensure_ascii=False, indent=4))
+print(json.dumps(movie_data, ensure_ascii=False, indent=4))
 
 # 데이터를 JSON 파일로 저장
 with open(filename, 'w', encoding='utf-8') as f:
