@@ -12,7 +12,7 @@ import time
 
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
-filename = f"serieson_chart{current_date}.json"
+filename = f"Serieson/serieson_chart{current_date}.json"
 
 # 웹드라이브 설치
 options = ChromeOptions()
