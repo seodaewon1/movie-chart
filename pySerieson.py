@@ -16,6 +16,7 @@ filename = f"Serieson/serieson_chart{current_date}.json"
 
 # 웹드라이브 설치
 options = ChromeOptions()
+options.add_argument("--headless")
 options.add_argument("--window-size=1920,1080") 
 service = ChromeService(executable_path=ChromeDriverManager().install())
 browser = webdriver.Chrome(service=service, options=options)
