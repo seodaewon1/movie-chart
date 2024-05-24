@@ -9,28 +9,36 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import json
 import time
+
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
-filename = f"Serieson/serieson_chart{current_date}.json"
+filename = f"Serieson_Chart{current_date}.json"
+
 # 웹드라이브 설치
 options = ChromeOptions()
-options.add_argument("--headless")
+options.add_argument("--headless")  # 헤드리스 모드
+options.add_argument("--window-size=1920,1080")  # 브라우저 창 크기 설정
 service = ChromeService(executable_path=ChromeDriverManager().install())
 browser = webdriver.Chrome(service=service, options=options)
+
 # 페이지 열기
 browser.get('https://serieson.naver.com/v3/movie/ranking/realtime')
+
 # 페이지가 완전히 로드될 때까지 대기
 WebDriverWait(browser, 20).until(
     EC.presence_of_element_located((By.CLASS_NAME, "RankingPage_ranking_wrap__GB855"))
 )
+
 # 천천히 스크롤 다운
 scroll_pause_time = 1  # 1초 대기
 pixels_to_scroll = 1000  # 한 번에 스크롤할 픽셀 수
 max_time_limit = 40  # 전체 작업 시간 제한 (40초)
 start_time = time.time()  # 작업 시작 시간
+
 def scroll_down():
     """현재 위치에서 지정된 픽셀 수만큼 아래로 스크롤"""
     browser.execute_script(f"window.scrollBy(0, {pixels_to_scroll});")
+
 while (time.time() - start_time) < max_time_limit:
     scroll_down()
     time.sleep(scroll_pause_time)
@@ -38,10 +46,13 @@ while (time.time() - start_time) < max_time_limit:
     new_height = browser.execute_script("return document.body.scrollHeight")
     if new_height == browser.execute_script("return window.pageYOffset + window.innerHeight"):
         break  # 페이지 끝에 도달
+
 # 페이지 소스 가져오기
 page_source = browser.page_source
+
 # BeautifulSoup를 사용하여 페이지 소스를 파싱
 soup = BeautifulSoup(page_source, 'html.parser')
+
 # 데이터 추출
 movie_data = []
 tracks = soup.select(".RankingList_ranking_list__N4QsH li")
@@ -61,10 +72,13 @@ for i, track in enumerate(tracks, start=1):
         "price": price,
         "imageURL": image_url,
     })
+
 # 출력 확인
 print(json.dumps(movie_data, ensure_ascii=False, indent=4))
+
 # 데이터를 JSON 파일로 저장
 with open(filename, 'w', encoding='utf-8') as f:
     json.dump(movie_data, f, ensure_ascii=False, indent=4)
+
 # 브라우저 종료
 browser.quit()
