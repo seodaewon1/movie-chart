@@ -16,7 +16,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
-filename = f"Serieson/Serieson_Chart{current_date}.json"
+filename = f"Serieson/serieson_Chart{current_date}.json"
 
 # 웹드라이브 설치
 options = ChromeOptions()
