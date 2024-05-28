@@ -9,13 +9,13 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import time
 import json
+from urllib.parse import urlparse, parse_qs  # 필요한 모듈 임포트
 
 current_date = datetime.now().strftime("%Y-%m-%d")
 filename = f"Moviechart/MoviechartChart_{current_date}.json"
 
 # 웹드라이버 설치
 options = ChromeOptions()
-options.add_argument("--headless")
 service = ChromeService(executable_path=ChromeDriverManager().install())
 browser = webdriver.Chrome(service=service, options=options)
 
@@ -30,6 +30,7 @@ WebDriverWait(browser, 10).until(
 # 업데이트된 페이지 소스를 변수에 저장
 html_source_updated = browser.page_source
 soup = BeautifulSoup(html_source_updated, 'html.parser')
+
 # 데이터 추출
 music_data = []
 
@@ -39,9 +40,17 @@ tracks = soup.select(".movieBox-list .movieBox-item")
 for track in tracks:
     rank = track.select_one(".rank.realtime_rank23").text.strip()
     title = track.select_one(".movie-title h3 a").text.strip()
-    rate = track.select_one(".ticketing span").text.strip()   
+    rate = track.select_one(".ticketing span").text.strip()
     date = track.select_one(".movie-launch").text.strip()
     image_url = track.select_one(".movieBox-item img").get('src')
+
+    # URL에서 'source=' 다음의 실제 이미지 URL 추출
+    parsed_url = urlparse(image_url)
+    query_params = parse_qs(parsed_url.query)
+    source_url = query_params.get('source', [None])[0]
+
+    if source_url:
+        image_url = source_url  # 이미지 URL을 실제 URL로 대체
 
     music_data.append({
         "rank": rank,
