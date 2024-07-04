@@ -1,0 +1,399 @@
+[
+    {
+        "rank": "No.1",
+        "title": "인사이드 아웃 2",
+        "rate": "25.0%",
+        "date": "2024.06.12",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000087/87864/87864_320.jpg"
+    },
+    {
+        "rank": "No.2",
+        "title": "탈주",
+        "rate": "22.2%",
+        "date": "2024.07.03",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88267/88267_320.jpg"
+    },
+    {
+        "rank": "No.3",
+        "title": "핸섬가이즈",
+        "rate": "10.9%",
+        "date": "2024.06.26",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88227/88227_320.jpg"
+    },
+    {
+        "rank": "No.4",
+        "title": "하이재킹",
+        "rate": "5.8%",
+        "date": "2024.06.21",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88271/88271_320.jpg"
+    },
+    {
+        "rank": "No.5",
+        "title": "콰이어트 플레이스-첫째 날",
+        "rate": "4.9%",
+        "date": "2024.06.26",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88335/88335_320.jpg"
+    },
+    {
+        "rank": "No.6",
+        "title": "듄-파트2",
+        "rate": "3.8%",
+        "date": "2024.07.06",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000087/87947/87947_320.jpg"
+    },
+    {
+        "rank": "No.7",
+        "title": "만천과해",
+        "rate": "3.3%",
+        "date": "2024.07.03",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88367/88367_320.jpg"
+    },
+    {
+        "rank": "No.8",
+        "title": "듄",
+        "rate": "3.2%",
+        "date": "2024.07.06",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000084/84945/84945_320.jpg"
+    },
+    {
+        "rank": "No.9",
+        "title": "극장판 도라에몽-진구의 지구 교향곡",
+        "rate": "3.0%",
+        "date": "2024.07.10",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88378/88378_320.jpg"
+    },
+    {
+        "rank": "No.10",
+        "title": "퍼펙트 데이즈",
+        "rate": "2.5%",
+        "date": "2024.07.03",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88034/88034_320.jpg"
+    },
+    {
+        "rank": "No.11",
+        "title": "2024 KBO 올스타전",
+        "rate": "2.1%",
+        "date": "2024.07.06",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88401/88401_320.jpg"
+    },
+    {
+        "rank": "No.12",
+        "title": "기동전사 건담 시드 프리덤",
+        "rate": "1.9%",
+        "date": "2024.07.05",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88086/88086_320.jpg"
+    },
+    {
+        "rank": "No.13",
+        "title": "(라이브뷰잉) LILPACON：Going Out - SOOPER CONCERT",
+        "rate": "1.5%",
+        "date": "2024.07.12",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88387/88387_320.jpg"
+    },
+    {
+        "rank": "No.14",
+        "title": "키타로 탄생 게게게의 수수께끼",
+        "rate": "1.0%",
+        "date": "2024.06.12",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88265/88265_320.jpg"
+    },
+    {
+        "rank": "No.15",
+        "title": "싸이코드 3집 컴백 쇼케이스 - DECISION",
+        "rate": "1.0%",
+        "date": "2024.07.06",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88386/88386_320.jpg"
+    },
+    {
+        "rank": "No.16",
+        "title": "2024 박은빈 팬 콘서트 <은빈노트 - 디바>",
+        "rate": "0.9%",
+        "date": "2024.07.10",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88404/88404_320.jpg"
+    },
+    {
+        "rank": "No.17",
+        "title": "존 오브 인터레스트",
+        "rate": "0.8%",
+        "date": "2024.06.05",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88270/88270_320.jpg"
+    },
+    {
+        "rank": "No.18",
+        "title": "극장판 하이큐!! 쓰레기장의 결전",
+        "rate": "0.8%",
+        "date": "2024.05.15",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88214/88214_320.jpg"
+    },
+    {
+        "rank": "No.19",
+        "title": "태풍 클럽",
+        "rate": "0.7%",
+        "date": "2024.06.26",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88369/88369_320.jpg"
+    },
+    {
+        "title": "듄",
+        "rate": "3.2%",
+        "date": "2024.07.06",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000084/84945/84945_320.jpg"
+    },
+    {
+        "title": "극장판 도라에몽-진구의 지구 교향곡",
+        "rate": "3.0%",
+        "date": "2024.07.10",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88378/88378_320.jpg"
+    },
+    {
+        "title": "퍼펙트 데이즈",
+        "rate": "2.5%",
+        "date": "2024.07.03",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88034/88034_320.jpg"
+    },
+    {
+        "title": "2024 KBO 올스타전",
+        "rate": "2.1%",
+        "date": "2024.07.06",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88401/88401_320.jpg"
+    },
+    {
+        "title": "기동전사 건담 시드 프리덤",
+        "rate": "1.9%",
+        "date": "2024.07.05",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88086/88086_320.jpg"
+    },
+    {
+        "title": "(라이브뷰잉) LILPACON：Going Out - SOOPER CONCERT",
+        "rate": "1.5%",
+        "date": "2024.07.12",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88387/88387_320.jpg"
+    },
+    {
+        "title": "키타로 탄생 게게게의 수수께끼",
+        "rate": "1.0%",
+        "date": "2024.06.12",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88265/88265_320.jpg"
+    },
+    {
+        "title": "싸이코드 3집 컴백 쇼케이스 - DECISION",
+        "rate": "1.0%",
+        "date": "2024.07.06",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88386/88386_320.jpg"
+    },
+    {
+        "title": "2024 박은빈 팬 콘서트 <은빈노트 - 디바>",
+        "rate": "0.9%",
+        "date": "2024.07.10",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88404/88404_320.jpg"
+    },
+    {
+        "title": "존 오브 인터레스트",
+        "rate": "0.8%",
+        "date": "2024.06.05",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88270/88270_320.jpg"
+    },
+    {
+        "title": "극장판 하이큐!! 쓰레기장의 결전",
+        "rate": "0.8%",
+        "date": "2024.05.15",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88214/88214_320.jpg"
+    },
+    {
+        "title": "태풍 클럽",
+        "rate": "0.7%",
+        "date": "2024.06.26",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88369/88369_320.jpg"
+    },
+    {
+        "title": "가장 따뜻한 색, 블루",
+        "rate": "0.7%",
+        "date": "2024.07.10",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000077/77408/77408_320.jpg"
+    },
+    {
+        "title": "프렌치 수프",
+        "rate": "0.6%",
+        "date": "2024.06.19",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88280/88280_320.jpg"
+    },
+    {
+        "title": "탈출-프로젝트 사일런스",
+        "rate": "0.6%",
+        "date": "2024.07.12",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88384/88384_320.jpg"
+    },
+    {
+        "title": "우리는 날마다 조금씩 행복해진다-얼미부부 북토크",
+        "rate": "0.4%",
+        "date": "2024.07.06",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88410/88410_320.jpg"
+    },
+    {
+        "title": "아가씨 확장판",
+        "rate": "0.4%",
+        "date": "2024.06.26",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000079/79145/79145_320.jpg"
+    },
+    {
+        "title": "밤낚시",
+        "rate": "0.3%",
+        "date": "2024.06.14",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88332/88332_320.jpg"
+    },
+    {
+        "title": "마거리트의 정리",
+        "rate": "0.2%",
+        "date": "2024.06.27",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88281/88281_320.jpg"
+    },
+    {
+        "title": "북극백화점의 안내원",
+        "rate": "0.2%",
+        "date": "2024.06.19",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88297/88297_320.jpg"
+    },
+    {
+        "title": "프리실라",
+        "rate": "0.1%",
+        "date": "2024.06.19",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88299/88299_320.jpg"
+    },
+    {
+        "title": "악마와의 토크쇼",
+        "rate": "0.1%",
+        "date": "2024.05.08",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88207/88207_320.jpg"
+    },
+    {
+        "title": "퓨리오사-매드맥스 사가",
+        "rate": "0.1%",
+        "date": "2024.05.22",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88148/88148_320.jpg"
+    },
+    {
+        "title": "난다 여름편집자학교 1강",
+        "rate": "0.1%",
+        "date": "2024.07.21",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88423/88423_320.jpg"
+    },
+    {
+        "title": "난다 여름편집자학교 2강",
+        "rate": "0.1%",
+        "date": "2024.07.21",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88424/88424_320.jpg"
+    },
+    {
+        "title": "플라이 미 투 더 문",
+        "rate": "0.1%",
+        "date": "2024.07.12",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88441/88441_320.jpg"
+    },
+    {
+        "title": "피렌체와 우피치 미술관",
+        "rate": "0.1%",
+        "date": "2024.06.26",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88398/88398_320.jpg"
+    },
+    {
+        "title": "난다 여름편집자학교 4강",
+        "rate": "0.0%",
+        "date": "2024.07.28",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88426/88426_320.jpg"
+    },
+    {
+        "title": "[씨네뮤지엄] 벨라스케스, 스페인 회화의 자존심",
+        "rate": "0.0%",
+        "date": "2024.07.06",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000086/86138/86138_320.jpg"
+    },
+    {
+        "title": "난다 여름편집자학교 3강",
+        "rate": "0.0%",
+        "date": "2024.07.28",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88425/88425_320.jpg"
+    },
+    {
+        "title": "[노래하는 도슨트] 고흐가 당신에게- 고흐의 작품으로 듣는 재즈",
+        "rate": "0.0%",
+        "date": "2024.07.24",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88409/88409_320.jpg"
+    },
+    {
+        "title": "[Whisky Class] 자연으로 하나된 조화, 하모니 컬렉션",
+        "rate": "0.0%",
+        "date": "2024.06.22",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88365/88365_320.jpg"
+    },
+    {
+        "title": "[재즈도슨트] 영화로 듣는 재즈 히스토리 - 공연편",
+        "rate": "0.0%",
+        "date": "2024.07.30",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88268/88268_320.jpg"
+    },
+    {
+        "title": "챌린저스",
+        "rate": "0.0%",
+        "date": "2024.04.24",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88179/88179_320.jpg"
+    },
+    {
+        "title": "[씨네뮤지엄] 발칙한 아름다움, 현대미술",
+        "rate": "0.0%",
+        "date": "2024.07.27",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000086/86146/86146_320.jpg"
+    },
+    {
+        "title": "[씨네뮤지엄] 프란시스코 고야, 시대가 그에게 너그러웠더라면",
+        "rate": "0.0%",
+        "date": "2024.07.20",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000086/86139/86139_320.jpg"
+    },
+    {
+        "title": "난다 여름편집자학교 7강",
+        "rate": "0.0%",
+        "date": "2024.08.11",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88429/88429_320.jpg"
+    },
+    {
+        "title": "난다 여름편집자학교 6강",
+        "rate": "0.0%",
+        "date": "2024.08.04",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88428/88428_320.jpg"
+    },
+    {
+        "title": "이소룡-들",
+        "rate": "0.0%",
+        "date": "2024.06.19",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88269/88269_320.jpg"
+    },
+    {
+        "title": "명탐정 코난 VS 괴도 키드",
+        "rate": "0.0%",
+        "date": "2024.06.05",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88272/88272_320.jpg"
+    },
+    {
+        "title": "[씨네뮤지엄] 오르세 미술관",
+        "rate": "0.0%",
+        "date": "2024.07.05",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000087/87189/87189_320.jpg"
+    },
+    {
+        "title": "[씨네뮤지엄] 혁명과 황제의 화가, 자크 루이 다비드",
+        "rate": "0.0%",
+        "date": "2024.07.12",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000086/86140/86140_320.jpg"
+    },
+    {
+        "title": "난다 여름편집자학교 5강",
+        "rate": "0.0%",
+        "date": "2024.08.04",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88427/88427_320.jpg"
+    },
+    {
+        "title": "[스마트폰 사진 클래스] 일상을 영화처럼 만드는 법",
+        "rate": "0.0%",
+        "date": "2024.07.27",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88407/88407_320.jpg"
+    }
+]
