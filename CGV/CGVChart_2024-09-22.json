@@ -1,0 +1,399 @@
+[
+    {
+        "rank": "No.1",
+        "title": "베테랑2",
+        "rate": "33.4%",
+        "date": "2024.09.13",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88488/88488_320.jpg"
+    },
+    {
+        "rank": "No.2",
+        "title": "조커-폴리 아 되",
+        "rate": "15.4%",
+        "date": "2024.10.01",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88531/88531_320.jpg"
+    },
+    {
+        "rank": "No.3",
+        "title": "트랜스포머 ONE",
+        "rate": "9.5%",
+        "date": "2024.09.25",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88500/88500_320.jpg"
+    },
+    {
+        "rank": "No.4",
+        "title": "임영웅ㅣ아임 히어로 더 스타디움",
+        "rate": "4.8%",
+        "date": "2024.08.28",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88499/88499_320.jpg"
+    },
+    {
+        "rank": "No.5",
+        "title": "정국: 아이 엠 스틸",
+        "rate": "4.1%",
+        "date": "2024.09.18",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88687/88687_320.jpg"
+    },
+    {
+        "rank": "No.6",
+        "title": "대도시의 사랑법",
+        "rate": "4.1%",
+        "date": "2024.10.01",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88538/88538_320.jpg"
+    },
+    {
+        "rank": "No.7",
+        "title": "브레드이발소-빵스타의 탄생",
+        "rate": "3.7%",
+        "date": "2024.09.14",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88485/88485_320.jpg"
+    },
+    {
+        "rank": "No.8",
+        "title": "비긴 어게인",
+        "rate": "3.1%",
+        "date": "2024.09.18",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000077/77772/77772_320.jpg"
+    },
+    {
+        "rank": "No.9",
+        "title": "명탐정 코난-시한장치의 마천루",
+        "rate": "2.6%",
+        "date": "2024.10.02",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88769/88769_320.jpg"
+    },
+    {
+        "rank": "No.10",
+        "title": "사랑의 하츄핑",
+        "rate": "2.0%",
+        "date": "2024.08.07",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88403/88403_320.jpg"
+    },
+    {
+        "rank": "No.11",
+        "title": "극장총집편 봇치 더 록! 전편",
+        "rate": "2.0%",
+        "date": "2024.08.07",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88287/88287_320.jpg"
+    },
+    {
+        "rank": "No.12",
+        "title": "극장총집편 봇치 더 록! 후편",
+        "rate": "1.8%",
+        "date": "2024.09.25",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88288/88288_320.jpg"
+    },
+    {
+        "rank": "No.13",
+        "title": "태용: 티와이 트랙 인 시네마",
+        "rate": "1.4%",
+        "date": "2024.09.25",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88732/88732_320.jpg"
+    },
+    {
+        "rank": "No.14",
+        "title": "새벽의 모든",
+        "rate": "1.3%",
+        "date": "2024.09.18",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88527/88527_320.jpg"
+    },
+    {
+        "rank": "No.15",
+        "title": "(라이브뷰잉) 프로젝트 세카이 4주년 감사제",
+        "rate": "1.2%",
+        "date": "2024.09.28",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88660/88660_320.jpg"
+    },
+    {
+        "rank": "No.16",
+        "title": "장손",
+        "rate": "0.8%",
+        "date": "2024.09.11",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88529/88529_320.jpg"
+    },
+    {
+        "rank": "No.17",
+        "title": "독립시대",
+        "rate": "0.7%",
+        "date": "2024.09.25",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88514/88514_320.jpg"
+    },
+    {
+        "rank": "No.18",
+        "title": "봇치 더 록! 3편 연속 상영",
+        "rate": "0.7%",
+        "date": "2024.09.09",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88753/88753_320.jpg"
+    },
+    {
+        "rank": "No.19",
+        "title": "안녕, 할부지",
+        "rate": "0.6%",
+        "date": "2024.09.04",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88628/88628_320.jpg"
+    },
+    {
+        "title": "비긴 어게인",
+        "rate": "3.1%",
+        "date": "2024.09.18",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000077/77772/77772_320.jpg"
+    },
+    {
+        "title": "명탐정 코난-시한장치의 마천루",
+        "rate": "2.6%",
+        "date": "2024.10.02",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88769/88769_320.jpg"
+    },
+    {
+        "title": "사랑의 하츄핑",
+        "rate": "2.0%",
+        "date": "2024.08.07",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88403/88403_320.jpg"
+    },
+    {
+        "title": "극장총집편 봇치 더 록! 전편",
+        "rate": "2.0%",
+        "date": "2024.08.07",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88287/88287_320.jpg"
+    },
+    {
+        "title": "극장총집편 봇치 더 록! 후편",
+        "rate": "1.8%",
+        "date": "2024.09.25",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88288/88288_320.jpg"
+    },
+    {
+        "title": "태용: 티와이 트랙 인 시네마",
+        "rate": "1.4%",
+        "date": "2024.09.25",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88732/88732_320.jpg"
+    },
+    {
+        "title": "새벽의 모든",
+        "rate": "1.3%",
+        "date": "2024.09.18",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88527/88527_320.jpg"
+    },
+    {
+        "title": "(라이브뷰잉) 프로젝트 세카이 4주년 감사제",
+        "rate": "1.2%",
+        "date": "2024.09.28",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88660/88660_320.jpg"
+    },
+    {
+        "title": "장손",
+        "rate": "0.8%",
+        "date": "2024.09.11",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88529/88529_320.jpg"
+    },
+    {
+        "title": "독립시대",
+        "rate": "0.7%",
+        "date": "2024.09.25",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88514/88514_320.jpg"
+    },
+    {
+        "title": "봇치 더 록! 3편 연속 상영",
+        "rate": "0.7%",
+        "date": "2024.09.09",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88753/88753_320.jpg"
+    },
+    {
+        "title": "안녕, 할부지",
+        "rate": "0.6%",
+        "date": "2024.09.04",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88628/88628_320.jpg"
+    },
+    {
+        "title": "소년시절의 너",
+        "rate": "0.5%",
+        "date": "2024.08.28",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000083/83353/83353_320.jpg"
+    },
+    {
+        "title": "에이리언- 로물루스",
+        "rate": "0.5%",
+        "date": "2024.08.14",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88170/88170_320.jpg"
+    },
+    {
+        "title": "세 가지 색-레드",
+        "rate": "0.4%",
+        "date": "2024.09.18",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000083/83747/83747_320.jpg"
+    },
+    {
+        "title": "아이엠스타! 10주년 극장판 -미래로의 스타웨이-",
+        "rate": "0.4%",
+        "date": "2024",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88712/88712_320.jpg"
+    },
+    {
+        "title": "[마이 아티 필름] 웨이션브이 : 기브 미 댓",
+        "rate": "0.4%",
+        "date": "2024.09.21",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88773/88773_320.jpg"
+    },
+    {
+        "title": "극장판 블루 록 -에피소드 나기-",
+        "rate": "0.4%",
+        "date": "2024.08.21",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88495/88495_320.jpg"
+    },
+    {
+        "title": "CGV x 엠스플 [삼성 라이온즈 vs KIA 타이거즈]",
+        "rate": "0.3%",
+        "date": "2024.09.23",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88768/88768_320.jpg"
+    },
+    {
+        "title": "사랑의 탐구",
+        "rate": "0.2%",
+        "date": "2024.09.18",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88631/88631_320.jpg"
+    },
+    {
+        "title": "2024 KBO 리그 - 두산 베어스 vs LG 트윈스",
+        "rate": "0.2%",
+        "date": "2024.09.22",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88755/88755_320.jpg"
+    },
+    {
+        "title": "수유천",
+        "rate": "0.2%",
+        "date": "2024.09.18",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88656/88656_320.jpg"
+    },
+    {
+        "title": "국외자들",
+        "rate": "0.2%",
+        "date": "2024.09.25",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88739/88739_320.jpg"
+    },
+    {
+        "title": "요네즈 켄시 2023 투어 / 공상",
+        "rate": "0.2%",
+        "date": "2024.09.11",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88651/88651_320.jpg"
+    },
+    {
+        "title": "타인의 삶",
+        "rate": "0.2%",
+        "date": "2024.10.02",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88701/88701_320.jpg"
+    },
+    {
+        "title": "비포 미드나잇",
+        "rate": "0.2%",
+        "date": "2024.09.04",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000076/76947/76947_320.jpg"
+    },
+    {
+        "title": "트랩",
+        "rate": "0.1%",
+        "date": "2024.09.18",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88711/88711_320.jpg"
+    },
+    {
+        "title": "바이크 라이더스",
+        "rate": "0.1%",
+        "date": "2024.09.25",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88772/88772_320.jpg"
+    },
+    {
+        "title": "비틀쥬스 비틀쥬스",
+        "rate": "0.1%",
+        "date": "2024.09.04",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88337/88337_320.jpg"
+    },
+    {
+        "title": "빅토리",
+        "rate": "0.1%",
+        "date": "2024.08.14",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88380/88380_320.jpg"
+    },
+    {
+        "title": "뮤지컬 빨래 CINE LIVE",
+        "rate": "0.1%",
+        "date": "2024.09.30",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88703/88703_320.jpg"
+    },
+    {
+        "title": "러빙 빈센트",
+        "rate": "0.1%",
+        "date": "2024.09.05",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000080/80117/80117_320.jpg"
+    },
+    {
+        "title": "파일럿",
+        "rate": "0.1%",
+        "date": "2024.07.31",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88437/88437_320.jpg"
+    },
+    {
+        "title": "세 가지 색-화이트",
+        "rate": "0.1%",
+        "date": "2024.09.11",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000083/83748/83748_320.jpg"
+    },
+    {
+        "title": "[클래식인시네마] 가을의 음악가, 브람스와 말러",
+        "rate": "0.1%",
+        "date": "2024.10.29",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88708/88708_320.jpg"
+    },
+    {
+        "title": "[토커바웃아트]패션과 미술 : 브랜드부터 현대미술까지",
+        "rate": "0.1%",
+        "date": "2024.09.25",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88643/88643_320.jpg"
+    },
+    {
+        "title": "그녀에게",
+        "rate": "0.1%",
+        "date": "2024.09.11",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88530/88530_320.jpg"
+    },
+    {
+        "title": "[씨네뮤지엄] Love or Hate, 런던",
+        "rate": "0.1%",
+        "date": "2024.09.28",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000086/86786/86786_320.jpg"
+    },
+    {
+        "title": "해야 할 일",
+        "rate": "0.1%",
+        "date": "2024.09.25",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88524/88524_320.jpg"
+    },
+    {
+        "title": "스픽 노 이블",
+        "rate": "0.1%",
+        "date": "2024.09.11",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88370/88370_320.jpg"
+    },
+    {
+        "title": "코마다 위스키 패밀리",
+        "rate": "0.1%",
+        "date": "2024.09.05",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88536/88536_320.jpg"
+    },
+    {
+        "title": "[씨네뮤지엄] 이스탄불, 두 개의 문명이 만나는 곳",
+        "rate": "0.1%",
+        "date": "2024.09.21",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000088/88483/88483_320.jpg"
+    },
+    {
+        "title": "[콘서트&다이닝]프리다의 식탁",
+        "rate": "0.1%",
+        "date": "2024.09.22",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000087/87018/87018_320.jpg"
+    },
+    {
+        "title": "애프터썬",
+        "rate": "0.1%",
+        "date": "2024.08.28",
+        "imageURL": "https://img.cgv.co.kr/Movie/Thumbnail/Poster/000086/86794/86794_320.jpg"
+    }
+]
